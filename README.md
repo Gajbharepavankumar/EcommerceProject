@@ -3,10 +3,10 @@
 
  ### This web based Ecommerce application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link** -
+**Project Link** -https://ambitious-island-0739a6100.3.azurestaticapps.net/
 
 
-**Demo Video** - 
+**Demo Video** - https://www.youtube.com/watch?v=H_Ok1WNHeiI&t=9s
 
 ##Features and Functionalities 
 
