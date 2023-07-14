@@ -57,8 +57,9 @@ IDE Used:
 **pages**
 <img width="1440" alt="Screenshot 2023-07-13 at 3 54 53 AM" src="https://github.com/Gajbharepavankumar/EcommerceProject/assets/134145254/19fac99e-d2c5-41b0-996d-a5941a5624b7">
 
+**BOT**
 
-
+<img width="1440" alt="Screenshot 2023-07-13 at 10 13 28 PM" src="https://github.com/Gajbharepavankumar/EcommerceProject/assets/134145254/f7ad8a0e-2626-4a47-8677-788a5314a9d9">
 
 
 
